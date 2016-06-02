@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Build trees
+build*
+
+# Eclipse files
+.cproject
+.project
+
